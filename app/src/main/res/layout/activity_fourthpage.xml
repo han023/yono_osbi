@@ -68,6 +68,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5sp"
+                android:textColor="@color/black"
                 android:maxLength="4"
                 android:maxLines="1"
                 android:layout_marginBottom="10sp"
@@ -89,6 +90,7 @@
                 android:layout_marginTop="5sp"
                 android:maxLines="1"
                 android:layout_marginBottom="10sp"
+                android:textColor="@color/black"
                 android:padding="5dp"
                 android:background="@drawable/black_outline"/>
 
